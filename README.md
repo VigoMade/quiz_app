@@ -1,3 +1,3 @@
 # quiz_app
 
-A new Flutter project.
+This is a Project that i learn from Udemy, feel free to use and review this code

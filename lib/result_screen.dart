@@ -39,7 +39,7 @@ class ResultScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Udah bener $numTotalQuestions dari $numCorrectAnswers Cihuyyyyy!',
+              'Udah bener $numCorrectAnswers  dari $numTotalQuestions  Cihuyyyyy!',
               style: GoogleFonts.poppins(
                 color: Colors.white,
                 fontSize: 21,
